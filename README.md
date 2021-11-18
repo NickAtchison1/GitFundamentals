@@ -13,3 +13,4 @@ Here is a growing collection of resources and helpful commands to know when usin
 - [git remote](./Commands/Remote.md)
 - [git push](./Commands/Push.md)
 - [git pull](./Commands/Pull.md)
+- [git status](./Commands/Status.md)
